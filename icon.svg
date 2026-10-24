@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Vibe PCB AI design suite">
+  <rect width="64" height="64" rx="14" fill="#102e28"/>
+  <rect x="9" y="9" width="46" height="46" rx="7" fill="#1d4b3e" stroke="#6bbf96" stroke-width="1.4"/>
+  <g fill="none" stroke="#ddbd78" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M28 24v-5l-4-4M40 28h6l4-4M36 40v5l4 4M24 36h-6l-4 4"/>
+    <path d="M36 24v-5M40 36h5M28 40v5M24 28h-5"/>
+  </g>
+  <g fill="#ddbd78">
+    <circle cx="24" cy="15" r="2"/><circle cx="50" cy="24" r="2"/>
+    <circle cx="40" cy="49" r="2"/><circle cx="14" cy="40" r="2"/>
+    <circle cx="36" cy="19" r="1.4"/><circle cx="45" cy="36" r="1.4"/>
+    <circle cx="28" cy="45" r="1.4"/><circle cx="19" cy="28" r="1.4"/>
+  </g>
+  <g fill="#102e28" stroke="#6bbf96" stroke-width="1.2">
+    <circle cx="15" cy="15" r="2"/><circle cx="49" cy="15" r="2"/>
+    <circle cx="49" cy="49" r="2"/><circle cx="15" cy="49" r="2"/>
+  </g>
+  <rect x="24" y="24" width="16" height="16" rx="3" fill="#cbefdb"/>
+  <path d="m27 35 2-6h1l2 6m-4.2-2h3.4M34 29h3m-1.5 0v6M34 35h3" fill="none" stroke="#275346" stroke-width="1.15" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
